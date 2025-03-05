@@ -1,5 +1,6 @@
 # onlydance-app-privacy
 Privacy Policy
+
 Effective Date: [03-03-2025]
 
 Welcome to Only Dance! We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect your information when you use our app.
@@ -9,18 +10,13 @@ When you use our event app, we collect the following data:
 
 Personal Information
 Full Name – Used for personalization and event registration.
-
 Email Address – Used for communication, login, and notifications.
-
 Gender – Used to enhance event recommendations.
-
 Preferred Dance Type – Helps us suggest suitable dance events.
 
 Automatically Collected Data
 We may collect certain technical information automatically, such as:
-
 Device information (device type, operating system).
-
 App usage data (features accessed, interaction with events).
 
 2. How We Use Your Information
@@ -36,11 +32,8 @@ We use your information for the following purposes:
 
 4. Your Rights and Choices
 You have the right to:
-
 Access or update your data – You can modify your details in the app settings.
-
 Request deletion of your data – Contact us at onlydancessk@gmail.com if you wish to delete your account and data.
-
 Opt-out of communications – You can unsubscribe from emails at any time.
 
 5. Changes to this Privacy Policy
